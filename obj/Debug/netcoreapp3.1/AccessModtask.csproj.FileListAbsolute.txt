@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.exe
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.deps.json
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.runtimeconfig.json
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.runtimeconfig.dev.json
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.dll
+C:\Users\User\source\repos\AccessModtask\AccessModtask\bin\Debug\netcoreapp3.1\AccessModtask.pdb
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.AssemblyInfo.cs
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.dll
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.pdb
+C:\Users\User\source\repos\AccessModtask\AccessModtask\obj\Debug\netcoreapp3.1\AccessModtask.genruntimeconfig.cache
